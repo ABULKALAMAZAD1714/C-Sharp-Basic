@@ -1,0 +1,16 @@
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\Dictionary AndHastableExample.exe
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\Dictionary AndHastableExample.deps.json
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\Dictionary AndHastableExample.runtimeconfig.json
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\Dictionary AndHastableExample.runtimeconfig.dev.json
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\Dictionary AndHastableExample.dll
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\ref\Dictionary AndHastableExample.dll
+G:\data structures and algorithms\Dictionary AndHastableExample\bin\Debug\net5.0\Dictionary AndHastableExample.pdb
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.csprojAssemblyReference.cache
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.AssemblyInfoInputs.cache
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.AssemblyInfo.cs
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.csproj.CoreCompileInputs.cache
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.dll
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\ref\Dictionary AndHastableExample.dll
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.pdb
+G:\data structures and algorithms\Dictionary AndHastableExample\obj\Debug\net5.0\Dictionary AndHastableExample.genruntimeconfig.cache
